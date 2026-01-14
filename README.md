@@ -16,27 +16,19 @@
 
 <br clear="both">
 
-<h3 align="center">📫 Connect with me:</h3>
-
-###
-
-<div align="center">
-  <a href="marsyandanayoan@gamil.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/marsyandha-nayoan-069a80387" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/1410566026118168576" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+<h3 align="center">📫Connect with me</h3>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">Language and tools I currently use and learn:</h4>
+<p align="left">Email: marsyandanayoan@gmail.com<br>LinkedIn: www.linkedin.com/in/marsyandha-nayoan-069a80387<br>Discord: @marsyandhanayoan</p>
+
+###
+
+<br clear="both">
+
+<h4 align="center">⚙️Language and tools I currently use and learn</h4>
 
 ###
 
@@ -75,10 +67,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/marsyandha-nayoan/marsyandha-nayoan/output/snake.svg" alt="Snake animation" />
 
 ###
 
